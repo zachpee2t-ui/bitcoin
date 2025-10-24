@@ -1,0 +1,8 @@
+[project]
+name = "clarinet-btc"
+authors = ["Nkechi Okoye"]
+
+[contracts.bitcoin]
+path = "contracts/bitcoin.clar"
+clarity_version = 2
+epoch = "2.1"
